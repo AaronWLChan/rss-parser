@@ -1,0 +1,48 @@
+{
+  "type": "rss-2.0",
+  "title": "www.espn.com - TOP",
+  "links": [
+    {
+      "url": "https://www.espn.com",
+      "rel": ""
+    }
+  ],
+  "description": "Latest TOP news from www.espn.com",
+  "language": "en",
+  "copyright": "Copyright 2015 ESPN Inc.",
+  "authors": [],
+  "lastUpdated": "Thu, 22 Jul 2021 04:39:51 GMT",
+  "categories": [],
+  "image": {
+    "url": "https://a.espncdn.com/i/espn/teamlogos/lrg/trans/espn_dotcom_black.gif",
+    "title": "www.espn.com - TOP",
+    "width": "110",
+    "height": "110"
+  },
+  "itunes": {
+    "authors": [],
+    "categories": [],
+    "owner": {}
+  },
+  "items": [
+    {
+      "title": "Seattle gets Kraken, drafts 30, including Driedger",
+      "links": [
+        {
+          "url": "https://www.espn.com/nhl/story/_/id/31858944/seattle-kraken-skip-superstars-expansion-draft-focus-group-looking-win-together",
+          "rel": ""
+        }
+      ],
+      "description": "Focusing largely on a collection of budget-friendly players who want \"to go out and play hard together, and win together,\" Seattle GM Ron Francis, coach Dave Hakstol and the expansion Kraken selected 30 players on Wednesday night in the expansion draft.",
+      "id": "31858944",
+      "imageUrl": "https://a.espncdn.com/photo/2021/0722/r883343_600x600_1-1.jpg",
+      "authors": [],
+      "categories": [],
+      "published": "Thu, 22 Jul 2021 00:38:31 EST",
+      "enclosures": [],
+      "itunes": {
+        "authors": []
+      }
+    }
+  ]
+}

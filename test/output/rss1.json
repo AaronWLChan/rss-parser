@@ -1,0 +1,40 @@
+{
+  "type": "rss",
+  "title": "craigslist SF bay area | apts/housing for rent search ",
+  "links": [
+    {
+      "url": "https://sfbay.craigslist.org/search/apa",
+      "rel": ""
+    }
+  ],
+  "description": "",
+  "language": "en-us",
+  "copyright": "copyright 2017 craiglist",
+  "authors": [],
+  "categories": [],
+  "image": {},
+  "itunes": {
+    "authors": [],
+    "categories": [],
+    "owner": {}
+  },
+  "items": [
+    {
+      "title": "Bright, Spacious Beautiful Victorian (oakland north / temescal) &#x0024;4300 3bd 1930ft<sup>2</sup>",
+      "links": [
+        {
+          "url": "http://sfbay.craigslist.org/eby/apa/6186664607.html",
+          "rel": ""
+        }
+      ],
+      "description": "Updated 3+ Bedroom, 2.5 Bath, Victorian home. Beautiful original oak hardwoods, high ceilings with crown molding, stainless steel appliances, large sunny deck directly next to the kitchen for grilling and entertaining. Radiant floor heating throughou [...]",
+      "authors": [],
+      "categories": [],
+      "published": "2017-06-21T10:33:10-07:00",
+      "enclosures": [],
+      "itunes": {
+        "authors": []
+      }
+    }
+  ]
+}
